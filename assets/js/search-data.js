@@ -45,18 +45,11 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-résumé",
-          title: "résumé",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Résumé",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/r%C3%A9sum%C3%A9/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "people",
