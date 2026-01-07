@@ -4,7 +4,7 @@ permalink: /résumé/
 title: Résumé
 description:
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 <iframe src="/assets/documents/Resume.pdf" width="100%" height="1080px" style="border: none;" title="Embedded PDF Viewer">
