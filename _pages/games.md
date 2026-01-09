@@ -9,7 +9,7 @@ nav_order: 1
 
 These are the projects I have been involved in.
 
-## Spherica
+## Spherica 🌏🔫🫠
 
 ---
 
@@ -25,11 +25,11 @@ These are the projects I have been involved in.
  
 <br/><br/>
 
-## Together
+## Together 👻
 
 ---
 
-> Horror survival | Puzzles
+> Horror survival | Puzzle
 {% include youtubePlayer.html id="so1r59ka9oE" %}
 
 <p>Together is a horror survival game.</p>
@@ -38,7 +38,7 @@ These are the projects I have been involved in.
  
 <br/><br/>
 
-## Exploswitch
+## Exploswitch 🐧💣
 
 ---
 
@@ -53,7 +53,7 @@ These are the projects I have been involved in.
  
 <br/><br/>
 
-## Elemental Lord
+## Elemental Lord 🧠🛡️⚔️⚚
 
 ---
 
