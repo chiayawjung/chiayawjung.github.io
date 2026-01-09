@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Game Developer<br></br>Unity &nbsp; Cocos Creator<br></br>C# &nbsp; Typescript
+subtitle: <em>Game Developer<br/>Unity &nbsp; Cocos Creator<br/>C# &nbsp; Typescript<em>
 
 profile:
   align: right
@@ -27,6 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a game developer with more than 5 years of experience in developing games.
+I'm a game developer with more than 5 years of working experiences in developing games, specialized in **Unity**, **Cocos Creator**, **C#** and **Typescript**.
 
-I specialized in Unity, Cocos Creator, C# and Typescript.
+I study at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)** and have a **Bachelor of Computer Science (Honours) in Interactive Software Technology**. 
+<br/>This course teaches us on designing and developing various type of softwares such as games, mobile apps, AR apps and web sites, with more focus on games.
+
+I spent my free time designing and developing games, and enjoys a lot on designing and developing complex systems that are modular and easy to scale.
+
+🎮🎮 Please check out the [games](/games) I had developed. 🎮🎮
