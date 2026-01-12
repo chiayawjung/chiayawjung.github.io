@@ -9,6 +9,18 @@ nav_order: 1
 
 These are the projects I have been involved in.
 
+## Battle of the Rim 
+
+---
+
+> MOBA | PVP | PVE
+{% include googleDrivePlayer.html id="1YOX9Lz9H0uyCosvl36NfE43CZ9bn9Koi" %}
+
+<p>Battle of the Rim is a MOBA game with both PVP and PVE element.</p>
+<p>Both team competing for higher points by hitting the boss before the time runs out.</p>
+ 
+<br/><br/>
+
 ## Spherica 🌏🔫🫠
 
 ---
